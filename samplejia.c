@@ -3,7 +3,7 @@
 
 printf("hello world"); 
 printf("hello i am jiamingqinag ")
-prinyf("jiamingqiang")
+prinyf("jiasssmingqiang")
 return 0; 
 
 }
