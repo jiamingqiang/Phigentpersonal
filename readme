@@ -1,1 +1,15 @@
-This is a git repo 
+This is a git repo :
+
+
+设置不同编译模式：
+1、通过命令行的方式
+
+     cmake  -DCMAKE_BUILD_TYPE=Debug ..
+
+2、set(CMAKE_BUILD_TYPE Debug CACHE STRING "set build type to debug")
+
+     或者
+
+     set(CMAKE_BUILD_TYPE "Debug")
+
+

@@ -1,0 +1,3 @@
+/home/chia/Phigentpersonal/Debug/CMakeFiles/rebuild_cache.dir
+/home/chia/Phigentpersonal/Debug/CMakeFiles/edit_cache.dir
+/home/chia/Phigentpersonal/Debug/CMakeFiles/test.dir

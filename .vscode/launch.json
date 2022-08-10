@@ -1,0 +1,30 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "cpp build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "/home/chia/Phigentpersonal/Debug/test", // 编译之后的exe文件/chia，关键得是debug的编译模式
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/home/chia/Phigentpersonal",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "cpp build active file",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "justMyCode": false
+    }
+  ]
+}

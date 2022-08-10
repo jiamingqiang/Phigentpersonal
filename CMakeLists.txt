@@ -4,7 +4,8 @@ project(test)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(test 
-main.cpp
+#main.cpp
+Dijkstra.cpp
 #preprocess.cpp
 #unscented_kalman_filter.cpp
 )

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/chia/Phigentpersonal/Dijkstra.cpp" "/home/chia/Phigentpersonal/build/CMakeFiles/test.dir/Dijkstra.cpp.o"
+  "/home/chia/Phigentpersonal/Dijkstra.cpp" "/home/chia/Phigentpersonal/Debug/CMakeFiles/test.dir/Dijkstra.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
